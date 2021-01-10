@@ -23,5 +23,6 @@ There is an information dictionary saved in json format that keeps track of the 
 The final output is a pair of numpy arrays (and scrubbed CSV's, for testing).
 
 
-NEURAL NET ARCHITECHTURE
+NEURAL NET ARCHITECTURE
 
+The most recent 'working' example is in keras_sig_last.py, so-called because it has a sigmoid activation on the last layer.
