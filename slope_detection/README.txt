@@ -8,6 +8,8 @@ So, as a warmup excercise, I created and tested an algorithm to find those slope
 
 datagen.py creates these window-like functions and saves them as numpy arrays, while keras_deriv.py teaches a neural net how to find them.
 
+I also experimented with several other architectures in the keras_conv.py and keras_comb.py scripts.
+
 
 As an even simpler warmup (included since everything is in the code), there is also a test to teach a neural net how to do a random linear transformation.
 
